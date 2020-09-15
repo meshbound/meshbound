@@ -3,7 +3,7 @@
 <!--
 **meshbound/meshbound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Meshbound's github stats](https://github-readme-stats.vercel.app/api?username=meshbound)](https://github.com/meshbound/github-readme-stats)
+![Meshbound's github stats](https://github-readme-stats.vercel.app/api?username=meshbound)]
 
 Here are some ideas to get you started:
 
